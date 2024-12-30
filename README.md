@@ -1,2 +1,2 @@
 # Machine-Learning
-Contains code to various Machine Learning problems
+Contains Machine Learning projects i have completed 
